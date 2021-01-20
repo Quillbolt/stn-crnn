@@ -1,0 +1,3 @@
+NOTE:
+exp1-3 None-CRNN
+exp4-5 STN-CRNN

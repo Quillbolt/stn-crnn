@@ -1,0 +1,7 @@
+logs/*
+content/train/*
+content/val/*
+checkpoints/*
+.vscode
+__pycache__
+words.txt
